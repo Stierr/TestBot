@@ -1,0 +1,7 @@
+python -m venv venv - создание venv
+venv/Scripts/activate.ps1 - активация venv
+pip install "название библиотеки" - скачать модули
+pip freeze > requirements.txt - создать список скачанных модулей
+
+
+
